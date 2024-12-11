@@ -3,3 +3,5 @@
 # create a repository
 # commit and push changes
 # pull changes and address merges v2  
+
+update readme 
